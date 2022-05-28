@@ -1,0 +1,25 @@
+{
+  "name": "budgeting-bear-a19",
+  "version": "1.0.0",
+  "description": "A budgeting app that allows users to add transactions while offline. ",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sarahhart1997/budgeting-bear-a19.git"
+  },
+  "author": "Sarah",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sarahhart1997/budgeting-bear-a19/issues"
+  },
+  "homepage": "https://github.com/sarahhart1997/budgeting-bear-a19#readme", 
+  "dependencies": {
+    "express": "4.18.1",
+    "mongoose": "6.3.4",
+    "morgan": "1.10.0"
+  }
+}
