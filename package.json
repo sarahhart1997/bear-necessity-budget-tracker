@@ -19,8 +19,8 @@
   "homepage": "https://github.com/sarahhart1997/budgeting-bear-a19#readme",
   "dependencies": {
     "compression": "1.7.4",
-    "express": "4.18.1",
+    "express": "4.17.1",
     "mongoose": "^5.5.15",
-    "morgan": "1.10.0"
+    "morgan": "1.9.1"
   }
 }
